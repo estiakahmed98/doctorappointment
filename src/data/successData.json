@@ -1,0 +1,28 @@
+{
+    "successCards": [
+      {
+        "id": 1,
+        "image": "https://i.ibb.co/MyH1CTDC/success-doctor.png",
+        "number": 50,
+        "title": "Total Doctors"
+      },
+      {
+        "id": 2,
+        "image": "https://i.ibb.co/BVRdKhcn/success-review.png",
+        "number": 25,
+        "title": "Total Reviews"
+      },
+      {
+        "id": 3,
+        "image": "https://i.ibb.co/svfBvVyc/success-patients.png",
+        "number": 15000,
+        "title": "Patients"
+      },
+      {
+        "id": 4,
+        "image": "https://i.ibb.co/VpjNBzNN/success-staffs.png",
+        "number": 10,
+        "title": "Total Stuffs"
+      }
+    ]
+  }
